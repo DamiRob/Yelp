@@ -1,4 +1,4 @@
-<a href="https://imgur.com/k7xtXZH"><img src="https://i.imgur.com/k7xtXZH.gif" title="source: imgur.com" /></a>
+
 
 # Project 3 - *Yelp*
 
@@ -28,6 +28,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 1. Using the business names to popualte the search bar
 2.
+## Video Walkthrough
+<a href="https://imgur.com/k7xtXZH"><img src="https://i.imgur.com/k7xtXZH.gif" title="source: imgur.com" /></a>
 
 ## Notes
 
