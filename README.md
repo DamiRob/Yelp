@@ -1,5 +1,5 @@
+<a href="https://imgur.com/k7xtXZH"><img src="https://i.imgur.com/k7xtXZH.gif" title="source: imgur.com" /></a>
 
-```
 # Project 3 - *Yelp*
 
 **YELP** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
@@ -51,5 +51,5 @@ limitations under the License.
 
 
 
-<a href="https://imgur.com/k7xtXZH"><img src="https://i.imgur.com/k7xtXZH.gif" title="source: imgur.com" /></a>
+
 
